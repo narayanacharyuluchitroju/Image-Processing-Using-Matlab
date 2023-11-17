@@ -1,4 +1,4 @@
-% Assignment 2 (Image Processing) U01079781
+% Assignment 2 (Image Processing)
 % Note : few functions are defined to reduce the redundacy of the code
 % (kmedian_filter, kaverage_filter, guassian_filter and varCal)
 % kmedian_filter - to apply median filter on an image
